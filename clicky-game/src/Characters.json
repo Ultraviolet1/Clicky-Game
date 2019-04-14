@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "https://en.wikipedia.org/wiki/File:Sterling_Archer.png"
+    },
+    {
+      "id": 2,
+      "image": "Berry.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "Cheryl.jpg"
+    },
+    {
+      "id": 4,
+      "image": "Cyril.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "Krieger.jpg"
+    },
+    {
+      "id": 6,
+      "image": "Lana.jpg"
+    },
+    {
+      "id": 7,
+      "image": "Malorie.jpg"
+    },
+    {
+      "id": 8,
+      "image": "Noah.jpg"
+    },
+    {
+      "id": 9,
+      "image": "OtherBerry.jpg"
+    },
+    {
+      "id": 10,
+      "image": "Pam.jpg"
+    },
+    {
+      "id": 11,
+      "image": "Ray.jpg"
+    },
+    {
+      "id": 12,
+      "image": "Woodhouse.jpg"
+    }
+  ]

@@ -1,0 +1,20 @@
+.header{
+	background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fchagos-trust.org%2Fimages%2Fuploads%2Fgeneral%2FIMG_3230.jpg&imgrefurl=https%3A%2F%2Fchagos-trust.org%2Fblog%2F2015-darwin-science-expedition-day-23-danger-island-coral-gardens-and-rubbl&docid=zCdhy0QJhyZvwM&tbnid=A-lrY0bdYslNnM%3A&vet=10ahUKEwjugqfmy9DhAhUOnFkKHcToBh4QMwiZASgqMCo..i&w=620&h=413&bih=738&biw=1482&q=danger%20island&ved=0ahUKEwjugqfmy9DhAhUOnFkKHcToBh4QMwiZASgqMCo&iact=mrc&uact=8");
+	position: relative;
+    width: 100%;
+    
+}
+
+h1{
+	text-align: center;
+	font-size: 90px;
+	font-weight: bold;
+	padding: 90px 0 20px 0; 
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+
