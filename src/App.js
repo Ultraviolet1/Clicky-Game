@@ -71,7 +71,7 @@ handleShuffle = () => {
           score={this.state.score}
         />
         <Jumbotron />
-        <div className="card">
+        <div>
           {this.state.Characters.map(Characters => (
             <FriendCard
               imageClick={this.imageClick}

@@ -7,3 +7,8 @@
     border: 3px solid white;
   }
   
+
+  .card img {
+    width: 200px;
+    height: 100px
+  }
